@@ -2,6 +2,7 @@ pengenalan mata kuliah
 komponen komputer 
 sisytem bilangan 
 konversi bilangan 
-ms word 1
-ms word 2
-ms word 3
+settinng halaman 
+daftar isi 
+mail merge 
+
