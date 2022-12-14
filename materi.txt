@@ -1,7 +1,7 @@
 pengenalan mata kuliah 
-komponen komputer 
-sisytem bilangan 
-konversi bilangan 
-ms word 1
-ms word 2
-ms word 3
+1.komponen komputer 
+2.sisytem bilangan 
+3.konversi bilangan 
+4.ms word 1
+5.ms word 2
+6.ms word 3
