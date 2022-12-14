@@ -1,2 +1,4 @@
 pengenalan mata kuliah 
 komponen komputer 
+sisytem bilangan 
+konversi bilangan 
