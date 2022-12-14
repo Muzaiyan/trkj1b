@@ -5,3 +5,6 @@ konversi bilangan
 ms word 1
 ms word 2
 ms word 3
+alif
+rizkan
+fauzan
