@@ -2,3 +2,6 @@ pengenalan mata kuliah
 komponen komputer 
 sisytem bilangan 
 konversi bilangan 
+settinng halaman 
+daftar isi 
+mail merge 
