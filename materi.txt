@@ -1,7 +1,7 @@
-pengenalan mata kuliah 
-komponen komputer 
-sisytem bilangan 
-konversi bilangan 
-ms word 1
-ms word 2
-ms word 3
+1. pengenalan mata kuliah 
+2. komponen komputer 
+3. Sistem bilangan 
+4. konversi bilangan 
+5. Ms. word 1
+6. Ms. word 2
+7. Ms. word 3
